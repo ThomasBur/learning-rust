@@ -1,7 +1,7 @@
-// Obligatory 'hello world' program! 
+// Obligatory 'hello world' program!
 
 fn main() {
-    println!("Hello, world!")
+    println!("Hello, world!");
 }
 
 // Compilable using "rustc hello-world.rs"
